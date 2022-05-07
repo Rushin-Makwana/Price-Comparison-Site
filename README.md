@@ -5,9 +5,11 @@
 
 <h1 align="center">Amazon-Flipkart Price Comparison Engine</h1>
 <div align="center">
-<img src="https://img.shields.io/github/license/Rushin-Makwana/Price-Comparison-Site">
+<img src="https://img.shields.io/github/license/Rushin-Makwana/Price-Comparison-Site">	
+<img src="https://www.codefactor.io/repository/github/Rushin-Makwana/Price-Comparison-Site/badge/master">
 <img src="https://img.shields.io/github/issues-pr/Rushin-Makwana/Price-Comparison-Site">
 <img src="https://img.shields.io/github/stars/Rushin-Makwana/Price-Comparison-Site">
+<img src="https://img.shields.io/github/forks/Rushin-Makwana/Price-Comparison-Site">
 <img src="https://img.shields.io/github/issues/Rushin-Makwana/Price-Comparison-Site">
 <img src="https://img.shields.io/badge/PRs-welcome-informational">
 </div>
@@ -54,7 +56,7 @@ For Example: Instead of searching 'Apple iPhone X (Space Grey, 256GB)', search '
 ## Future Scope:
 Currently this program works only on two e-commerce sites. More websites can be added to it. If you have more ideas, I'm excited to view Pull Requests from your side!
 
-For more information, you can visit my <a href="https://sushantpatrikar.github.io/">website</a>.
+For more information, you can visit my <a href="https://rushin-makwana.github.io/RushinPortfolio/">website</a>.
 
 
 
