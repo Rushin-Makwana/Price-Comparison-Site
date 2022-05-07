@@ -5,11 +5,9 @@
 
 <h1 align="center">Amazon-Flipkart Price Comparison Engine</h1>
 <div align="center">
-<img src="https://img.shields.io/github/license/Rushin-Makwana/Price-Comparison-Site">	
-<img src="https://www.codefactor.io/repository/github/Rushin-Makwana/Price-Comparison-Site/badge/master">
+<img src="https://img.shields.io/github/license/Rushin-Makwana/Price-Comparison-Site">
 <img src="https://img.shields.io/github/issues-pr/Rushin-Makwana/Price-Comparison-Site">
 <img src="https://img.shields.io/github/stars/Rushin-Makwana/Price-Comparison-Site">
-<img src="https://img.shields.io/github/forks/Rushin-Makwana/Price-Comparison-Site">
 <img src="https://img.shields.io/github/issues/Rushin-Makwana/Price-Comparison-Site">
 <img src="https://img.shields.io/badge/PRs-welcome-informational">
 </div>
